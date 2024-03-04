@@ -1,1 +1,2 @@
-E-commerce Website using HTML|CSS|JAVASCRIPT
+E-commerce Website 
+HTML|CSS|JAVASCRIPT
